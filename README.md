@@ -21,7 +21,7 @@ Check the link below to access those restaurants.
 
 Our repo does not support directly committing to `main.` 
 
-You need to first **checkout to a branch with the same name as the area** and modify the page/page-cn.md in the corresponding area.
+You need to first **checkout to a branch with the same name as the area** and modify the page/page-cn.md in the corresponding area. After that, you can submit a pull request to merge your change to the `main`.
 
 **DO NOT modify the area's page when the branch's name is different.**
 
